@@ -13,5 +13,5 @@ Java | JavaScript | HTML | CSS | React.js | Tailwind CSS | Node.js | Express.js 
 📬 Open to **Frontend Developer**, **Full-Stack Developer (MERN Stack)**, **Web Developer (Intern / Fresher)**, and **Software Developer Intern** roles.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/pasupuleti-akshitha-b7aa3334a) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pasupuleti-akshitha-b7aa3334a/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:akshithapasupuleti@gmail.com)
