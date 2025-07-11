@@ -2,7 +2,7 @@
 
 🎓 CSE Graduate (2025)  
 💻 Passionate about Web Development & Problem Solving  
-🎯 Currently mastering the MERN Stack , Data Structures and Java
+🎯 Currently mastering the MERN Stack, Data Structures and Java
 🚀 Building full-stack projects to sharpen my skills  
 
  🔧 Tech Stack  
