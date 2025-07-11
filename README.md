@@ -1,8 +1,8 @@
  Hi, I'm Akshitha 😊
 
-🎓 Recent CSE Graduate (2025)  
+🎓 CSE Graduate (2025)  
 💻 Passionate about Web Development & Problem Solving  
-🎯 Currently mastering the MERN Stack and Data Structures in Java  
+🎯 Currently mastering the MERN Stack , Data Structures and Java
 🚀 Building full-stack projects to sharpen my skills  
 
  🔧 Tech Stack  
